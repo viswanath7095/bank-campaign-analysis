@@ -19,3 +19,5 @@ to identify patterns that influence term deposit subscriptions.
 - ✅ Overall campaign response rate: **47.4%**
 - ✅ Student segment had highest response rate: **74.7%**
 - ✅ Subscribed customers had 41% higher avg
+## 📊 Analysis Charts
+![Campaign Analysis](hsbc_campaign_analysis.png)
