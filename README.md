@@ -1,8 +1,7 @@
 # 📊 Bank Marketing Campaign Analysis
 
 ## 🎯 Project Overview
-Analyzed real-world bank marketing campaign data of 11,162 customers 
-to identify patterns that influence term deposit subscriptions.
+Analyzed real-world bank marketing campaign data of 11,162 customers to identify patterns that influence term deposit subscriptions.
 
 ## 📁 Dataset
 - **Source:** Kaggle — Bank Marketing Dataset
@@ -22,6 +21,10 @@ to identify patterns that influence term deposit subscriptions.
 - ✅ May was the most successful campaign month
 
 ## 📊 Analysis Charts
-![Campaign Analysis](./hsbc_campaign_analysis.png)
+![Campaign Analysis](bank_campaign_analysis.png)
 
-## �
+## 💡 Business Impact
+Insights from this analysis can help banks:
+- Target high-response customer segments
+- Optimize campaign timing
+- Improve call frequency strategy
